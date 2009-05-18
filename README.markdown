@@ -20,6 +20,8 @@ You'll also need to modify your `rc.lua` with something like the following:
     require("beautiful")
     beautiful.init(awful.util.getdir("config") .. "/themes/" .. theme .. "/theme.lua")
 
+  [winsome]: http://github.com/elliottcable/winsome "An awesome theming library for awesome"
+
 Credits
 -------
 wool ships with [a desktop image][zen-rock-wip] by [Mandolux][], released under a [Creative Commons][] [BY-NC-ND 2.0][] license.
